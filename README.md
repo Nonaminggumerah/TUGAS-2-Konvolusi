@@ -18,6 +18,5 @@ Untuk kodenya, bisa dilihat sebagai berikut
 
 [Uploading untitled0.py…]()
 
-
 https://github.com/Nonaminggumerah/TUGAS-2-Konvolusi/blob/main/untitled0.py
 
